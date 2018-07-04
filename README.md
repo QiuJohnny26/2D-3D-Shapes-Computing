@@ -4,6 +4,8 @@ C++ program that allows the user to create a vector of 2D and 3D geometric
 figures then computes their areas and volumes if possible. Elements in your vectors
 are made of objects of each class that can be instantiated.
 
+Main Purpose of this Project was to understand the concept of Virtualization/Polymorphism/Inheritance with Classes in C++
+
 To run it
 1.Download Zip 
 2. cd to the file
